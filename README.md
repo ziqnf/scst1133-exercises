@@ -1,8 +1,8 @@
 # SCST1133 Exercises
 
-Name:  
-Matric Number:  
-Section:  
+Name:  MUHAMMAD HAZIQ NAUFAL BIN ABD KARIM
+Matric Number:  A26CS0240
+Section:  04
 Course: Data Engineering Ecosystem
 
 ## About This Repository
